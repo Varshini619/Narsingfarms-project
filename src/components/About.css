@@ -1,0 +1,31 @@
+.about{
+    width: 90%;
+    height: 75vh;
+    margin: 0 auto;
+    font-size: 20px;
+
+}
+.about p{
+    color: rgb(20, 16, 24);
+    font-size: 12px;
+}
+.about h1{
+    color:rgb(11, 171, 91);
+    text-decoration: overline;
+}
+
+.about h5{
+    color: rgb(3, 3, 3);
+    font-size: 16px;
+}
+.about h4 {
+    color: black;
+    text-align: center;
+}
+
+.about i{
+    color: rgb(244, 17, 17);
+}
+.a i{
+    color:rgb(25, 58, 34);
+}

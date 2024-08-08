@@ -1,0 +1,12 @@
+marquee{
+    color: rgb(43, 185, 15);
+    background-color: rgb(53, 49, 49);
+    text-decoration: overline;
+    margin-top: 0px;
+}
+marquee i{
+   color: rgb(212, 29, 29);
+   font-size: 16px;
+
+   
+}
